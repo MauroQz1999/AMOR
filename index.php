@@ -615,7 +615,7 @@
 
 <body>
 
-    <?php include dirname(__DIR__) . '/topbar.php'; ?>
+    <?php include 'topbar.php'; ?>
 
     <div class="topbar2"></div>
     <div class="contenedor">
